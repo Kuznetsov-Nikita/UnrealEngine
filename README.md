@@ -49,3 +49,9 @@ Dead Space ? (похожая локация), Mass Effect (только выса
 - противники насекомые могут передавать друг другу информацию телепатически
 
 Концепция предлагает множество возможностей по расширению контента как в ширину (количество уровней, их дизайн), так и в глубину (сюжет, NPC, новые механики).
+
+### Диаграмма папок
+https://drive.google.com/file/d/19LL_VGUpaCfGcSAZQK4Ni4YHcVJbhYkj/view?usp=sharing
+
+### Диаграмма классов
+https://drive.google.com/file/d/18qukn_puglT2llrQXxqQzBmsx41nuHlv/view?usp=sharing
